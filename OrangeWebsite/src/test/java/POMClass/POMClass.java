@@ -6,5 +6,6 @@ public class POMClass {
 	}
 	public void addPassWord(String password) {
 		//Password.sendKeys(password);
+		System.out.println("byee");
 	}
 }
